@@ -1,0 +1,5 @@
+homepage: "https://www.trkkn.com"
+documentation: "https://github.com/trkkn/gtm-server-variable-template-synthetic-user-agent"
+versions:
+  - sha: c1925d9c2b256d938e83287a97bbb3b756eef14c
+    changeNotes: initial
